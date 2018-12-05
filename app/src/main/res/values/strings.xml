@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubmissionSatu</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="desc_real_madrid">Real Madrid,
+        adalah klub sepak bola profesional yang
+        berbasis di Madrid, Spanyol. Didirikan pada
+        tahun 1902 sebagai Madrid Football Club,
+        secara tradisional mengenakan kostum kandang putih.
+        Kata Real ("dari kerajaan") Spanyol dan dianugerahkan
+        ke klub oleh Raja Alfonso XIII pada tahun 1920
+        bersama-sama dengan mahkota kerajaan di lambang klub.
+        Klub ini telah memainkan pertandingan kandang di
+        Stadion Santiago Bernabéu dengan kapasitas 85.454
+        di pusat kota Madrid sejak tahun 1947.
+    </string>
+    <string name="lihat">LIHAT</string>
+    <string name="share">SHARE</string>
+</resources>
